@@ -1,3 +1,6 @@
+body {
+	font-family: Helvetica;
+}
 header {
 	background-color: #333;
 }
@@ -55,7 +58,7 @@ footer .gris {
 footer li {
 	list-style-type: none;
 	line-height: 1.5;
-	margin-left: 100px;
+	margin-left: 50px;
 	padding-bottom: 10px;
 }
 footer a {

@@ -12,7 +12,7 @@
 }
 .img img {
 	width: 750px;
-	margin-left: 30px;
+	margin-left: 50px;
 }
 .img h3 {
 	font-size: 30px;
@@ -63,10 +63,11 @@ a {
 	color: #888;
 }
 .project {
-	padding: 60px 50px 0px 0px;
+	padding:;
 }
 .all {
 	margin-left: 100px;
+	padding-top: 40px;
 }
 .button_more {
 	width: 100px;
@@ -102,7 +103,7 @@ a .button_more {
 	border-radius: 10px;
 	padding-top: 5px;
 	font-size: 20px;
-	margin-top: 150px;
+	margin-top: 20px;
 }
 a .follow_button {
 	color: white;
@@ -111,9 +112,17 @@ a .follow_button {
 }
 .social_twitter {
 	color: gray;
-	margin-left: 40px;
+	margin-left: 70px;
+	font-size: 100px;
 }
-.icon_heart {
+.icons li {
 	float: right;
-	margin-right: 40px;
+	display: inline-block;
+	padding-left: 10px;
+}
+.icons i, h6 {
+	color: #eee;
+	display: inline-block;
+	padding-left: 10px;
+	padding-top: 10px;
 }
