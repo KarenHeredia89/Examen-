@@ -1,0 +1,155 @@
+header {
+	background-color: #333;
+}
+.logo, .nav-header {
+	color: white;
+}
+.logo {
+	padding-left: 40px;
+}
+.logo p, h2 {
+	float: left;
+	padding: 30px 0px;
+}
+.logo p {
+	margin-top: 5px;
+	font-size: 35px;
+	font-stretch: ultra-condensed;
+}
+.logo h2 {
+	font-size: 45px;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+}
+nav ul {
+	list-style-type: none;
+	padding: 50px 0px;
+}
+nav li {
+	float: right;
+	margin-right: 20px;
+}
+nav a:hover {
+	color: #cc0066;
+}
+footer {
+	background-color: #333;
+	padding: 40px 0px;
+}
+footer .gris {
+	color: gray;
+	line-height: 1.5;
+}
+.center {
+	text-align: center;
+}
+.float p, h2 {
+	float: left;
+}
+.float p {
+	margin-top: 35px;
+	font-stretch: ultra-condensed;
+}
+footer li {
+	list-style-type: none;
+	line-height: 1.5;
+	margin-left: 100px;
+	padding-bottom: 10px;
+}
+footer a {
+	text-decoration: none;
+	color: white;
+}
+footer a:hover {
+	color: #cc0066;
+}
+footer .border {
+	padding: 30px 0px;
+	border-bottom: 1px solid gray;
+}
+.texto h3 {
+	color: white;
+	padding-bottom: 20px;
+}
+.texto h5 {
+	color: gray;
+	padding-bottom: 5px;
+}
+.texto p {
+	color: white;
+	padding-bottom: 10px;
+}
+.texto a {
+	color: gray;
+	padding-bottom: 10px;
+}
+span {
+	color: #cc0066;
+}
+.follow_button_footer {
+	width: 90px;
+	height: 20px;
+	background-color: #cc0066;
+	border-radius: 10px;
+	font-size: 15px;
+	float: right;
+	margin: -40px 2px;
+}
+a .follow_button_footer {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+.dos h4 {
+	color: white;
+	padding-bottom: 20px;
+	float: left;
+}
+.dos p {
+	padding-bottom: 20px;
+}
+.tres h4 {
+	color: #cc0066;
+	font-size: 30px;
+	padding-top: 30px;
+}
+#email {
+	background-color: #282828;
+	border-radius: 10px;
+	border-color: transparent;
+	height: 50px;
+	position: relative;
+	margin-top: 10px;
+	padding-left: 10px;
+}
+#submit_button {
+	position: relative;
+	top: -35px;
+	right: -160px;
+	background-color: transparent;
+	border-color: transparent;
+	color: white;
+}
+.right {
+	text-align: center;
+	padding: 20px;
+}
+#icons div {
+	float: left;
+	border: 1px dashed #333;
+	border-radius: 100%;
+	background-color: gray;
+	color: #333;
+	margin-left: 10px;
+}
+.glyph_footer {
+	font-size: 50px;
+}
+.icon_quotations {
+	font-size: 50px;
+	float: left;
+	color: gray;
+	-webkit-transform: rotate(180deg);
+}

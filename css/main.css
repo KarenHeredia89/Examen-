@@ -1,0 +1,119 @@
+#fondo {
+	background-color: #eee;
+}
+.gentleman {
+	background-color: white;
+	border-bottom: 1px dashed #333;
+	border-left: 1px solid #333;
+	border-right: 1px solid #333;
+}
+.img {
+	padding: 40px 0px;
+}
+.img img {
+	width: 750px;
+	margin-left: 30px;
+}
+.img h3 {
+	font-size: 30px;
+	padding-bottom: 35px;
+}
+.img p, h3 {
+	color: #333;
+	padding-right: 15px;
+}
+.button_read {
+	text-align: center;
+	height: 45px;
+	width: 130px;
+	background-color: gray;
+	margin-top: 50px;
+	border-radius: 30px;
+	padding-top: 10px;
+	color: white;
+}
+a {
+	text-decoration: none;
+}
+.latest {
+	margin-left: 50px;
+}
+.latest p {
+	font-size: 50px;
+	padding: 30px 0px 5px;
+}
+.latest a {
+	color: gray;
+	margin-right: 25px;
+	margin-left: 5px;
+}
+.latest a:hover {
+	color: black;
+}
+.projects {
+	padding: 40px 0px;
+}
+.project img {
+	width: 420px;
+}
+.project h3 {
+	padding: 10px 0px;
+}
+.project a {
+	color: #888;
+}
+.project {
+	padding: 60px 50px 0px 0px;
+}
+.all {
+	margin-left: 100px;
+}
+.button_more {
+	width: 100px;
+	height: 30px;
+	background-color: #333;
+	border-radius: 10px;
+	padding-top: 5px;
+	margin-top: 25px;
+}
+a .button_more {
+	color: white;
+	text-align: center;
+	margin-left: 480px;
+}
+.follow {
+	background-color: white;
+	padding: 40px 0px;
+	border-left: 1px solid #333;
+	border-right: 1px solid #333;
+	font-size: 20px; 
+	color: #888;
+}
+.follow a {
+	color: #cc0066;
+}
+.follow p {
+	margin-top: 50px;
+}
+.follow_button {
+	width: 100px;
+	height: 30px;
+	background-color: #333;
+	border-radius: 10px;
+	padding-top: 5px;
+	font-size: 20px;
+	margin-top: 150px;
+}
+a .follow_button {
+	color: white;
+	text-align: center;
+	margin-left: 60px;
+}
+.social_twitter {
+	color: gray;
+	margin-left: 40px;
+}
+.icon_heart {
+	float: right;
+	margin-right: 40px;
+}
